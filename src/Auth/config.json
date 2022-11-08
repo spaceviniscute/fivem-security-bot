@@ -1,0 +1,29 @@
+{
+    "BOT_INFO": {
+        "TOKEN": "",
+        "MONGOOSE_URL": "",
+        "PREFIX": ".",
+        "MAIN_GUILD_ID": "",
+        "ALL_GUILD_ID": ["", "", "", ""]
+    },
+
+    "MISC": {
+        "SHORT_SERVER_NAME": "",
+        "LONG_SERVER_NAME": "",
+        "ICONURL": "",
+        "USE_EMBED": true,
+        "EMBED_COLOR": "#",
+        "PERMISSION_ROLE_NAME": "External Security Perms",
+        "LOGS_CHANNEL_ID": "",
+        "COVENTRY_ROLE_NAME": "Coventry",
+        "UNDER_INVESTIGATION_ROLE": "Under Investigation",
+        "IA_CATEGORY": ""
+    },
+
+    "ROLES": {
+        "HA_ROLE": "",
+        "ADMIN_ROLE": "",
+        "JA_ROLE": "",
+        "IA_ROLE": ""
+    }
+}

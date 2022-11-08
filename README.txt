@@ -1,5 +1,3 @@
-Thank you for purchasing the External Security Bot w/ Source. If you need any assistance setting up the bot. Please create a ticket. Setup is somewhat difficult and easy but you can definitely do it.
-
 INSTRUCTIONS:
 
 WINDOWS: 
